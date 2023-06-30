@@ -3,8 +3,7 @@
 //Luego llamar a la funcion en el main y darle valores.
 public class Main {
     public static void main(String[] args) {
-        int resultado = 0;
-        resultado = suma(4, 5, 6);
+        int resultado = suma(4, 5, 6);
         System.out.println("resultado de suma: " + resultado);
 
         coche miCoche = new coche();
